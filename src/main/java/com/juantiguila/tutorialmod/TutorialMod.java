@@ -34,7 +34,7 @@ public class TutorialMod {
     }
 
     private void commonSetup(final FMLCommonSetupEvent event) {
-//       comment
+//       comment random.
     }
 
     // You can use EventBusSubscriber to automatically register all static methods in the class annotated with @SubscribeEvent
